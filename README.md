@@ -31,7 +31,7 @@ Before running the script, you need to install the `pyperclip` module. Here's ho
 
 ```bash
   pip install pyperclip
-
+```
 ## Note
 
 This is a simple project for educational purposes. It does not encrypt passwords, so it should not be used to store sensitive information.
